@@ -6,5 +6,5 @@ This workshop on the synergy between Large Language Models (LLMs) and Knowledge 
 
 ## Workshop Topics and Themes
 To encourage researchers with relevant backgrounds to engage and contribute, we propose to organize the workshop to explore the interplay between KBs, DBs, and LLMs, to gain insights from both academia and industry. We will welcome theory and methodology papers falling into the scope of the following themes, including but not limited to:
-# LLM-empowered knowledge and data engineering
+### LLM-empowered knowledge and data engineering
 - LLM-enabled Improvements to Foundational KB and DB Algorithms
